@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
