@@ -85,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
