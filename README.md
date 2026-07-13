@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
