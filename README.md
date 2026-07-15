@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
