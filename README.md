@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -163,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
