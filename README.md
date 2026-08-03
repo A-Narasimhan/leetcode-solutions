@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0205-isomorphic-strings) |
