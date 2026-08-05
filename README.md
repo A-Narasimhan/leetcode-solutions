@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -180,21 +182,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Number Theory
 |  |
