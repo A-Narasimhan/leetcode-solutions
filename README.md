@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
