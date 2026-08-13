@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
