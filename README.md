@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
