@@ -304,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
