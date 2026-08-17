@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
