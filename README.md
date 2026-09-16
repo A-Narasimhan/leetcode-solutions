@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,17 +136,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -329,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
