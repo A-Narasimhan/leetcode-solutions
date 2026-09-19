@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Merge Sort
 |  |
 | ------- |
