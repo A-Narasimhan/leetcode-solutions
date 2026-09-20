@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3498-reverse-degree-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
