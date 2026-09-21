@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
