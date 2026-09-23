@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0197-rising-temperature) |
 ## Geometry
 |  |
 | ------- |
