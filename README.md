@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -381,4 +385,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0622-design-circular-queue](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
