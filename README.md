@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Enumeration
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Monotonic Stack
 |  |
 | ------- |
