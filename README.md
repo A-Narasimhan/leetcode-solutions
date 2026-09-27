@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0389-find-the-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0481-magical-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Primality Test
 |  |
 | ------- |
