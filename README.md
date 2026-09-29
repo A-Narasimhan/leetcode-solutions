@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
