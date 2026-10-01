@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Divide and Conquer
