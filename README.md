@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0155-min-stack) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
 |  |
