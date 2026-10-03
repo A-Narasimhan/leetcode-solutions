@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
