@@ -1,7 +1,7 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        low = 0
-        high = 0
+        low = 0 #minimum possible number of unmatched (
+        high = 0 #maximum possible number of unmatched (
 
         for c in s:
 
