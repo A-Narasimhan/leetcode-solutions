@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0079-word-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0319-bulb-switcher) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Primality Test
