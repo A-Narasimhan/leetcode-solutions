@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
