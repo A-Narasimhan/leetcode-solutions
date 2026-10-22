@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0066-plus-one) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0068-text-justification) |
