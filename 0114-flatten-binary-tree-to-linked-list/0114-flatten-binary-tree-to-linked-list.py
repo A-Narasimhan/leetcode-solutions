@@ -11,7 +11,7 @@ class Solution:
 
         preorder(root)
         if self.q:
-            self.q.pop(0)  # root will be reused
+            self.q.pop(0)
         while self.q:
             root.right = self.q.pop(0)
             root.left = None
