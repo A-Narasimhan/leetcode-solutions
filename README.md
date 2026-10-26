@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Queue
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0695-max-area-of-island](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0695-max-area-of-island](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
