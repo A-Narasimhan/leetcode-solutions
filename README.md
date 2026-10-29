@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0147-insertion-sort-list) |
