@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
