@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
