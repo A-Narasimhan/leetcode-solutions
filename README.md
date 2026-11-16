@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
