@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -728,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/A-Narasimhan/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Graph Theory
 |  |
 | ------- |
